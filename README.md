@@ -1,1 +1,1 @@
-# .github
+# Starko is an LLC that is currently making Starko ONE
